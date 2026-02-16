@@ -1,4 +1,5 @@
-# BC-Horizontal-Analysis
-This an ongoing analysis of the horizontal drilling activity in British Columbia in the Oil &amp; Gas Industry
+# BC Horizontal Drilling Analysis
 
-### Status: Not Finished
+An ongoing analysis of horizontal drilling activity in British Columbia's oil and gas industry, examining trends, patterns, and operational insights.
+
+**Status:** Work in Progress
